@@ -1,9 +1,8 @@
-# Agent-Based Modeling and Social System Simulation 2019 (Template)
-(text between brackets to be removed)
+# Complex Social Systems: Modeling Agents, Learning, and Games 2022
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Traffic is our Jam
+> * Group participants names: Louis Bettens, Manuel Dublanc, Carolin Heinzler
+> * Project Title: Traffic flow with bicycle lanes and bike boxes: a cellular automaton
 
 ## General Introduction
 
