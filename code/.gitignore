@@ -1,0 +1,14 @@
+# Python's virtual environment
+.venv
+
+# build artifacts from Python and Node
+node_modules/
+__pycache__/
+
+# Direnv support
+.direnv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.feather
+/plots/

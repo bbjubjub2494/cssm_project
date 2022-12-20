@@ -1,0 +1,29 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "mesa runserver",
+            "type": "shell",
+            "problemMatcher": [],
+            "command": "poetry run mesa runserver",
+            "detail": "Run simulation server."
+        },
+        {
+            "type": "npm",
+            "script": "watch",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "npm: watch",
+            "detail": "Build and watch JS files."
+        },
+        {
+            "label": "Start Jupyter notebook",
+            "type": "shell",
+            "problemMatcher": [],
+            "command": "poetry run jupyter notebook",
+            "detail": "Run local Jupyter server."
+        }
+    ]
+}

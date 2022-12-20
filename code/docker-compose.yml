@@ -1,0 +1,9 @@
+services:
+  mesa-visualization:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - 8521:8521
+    volumes:
+      - .:/app

@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://gitlab.ethz.ch/mdublanc/complex-social-systems-project
+	branch = main
+	commit = f501a37e9cdd35586c3468ae3848a59d59687e1f
+	parent = 87b801dc0517c4c6649e5a8e6cecc2a93cc3cd90
+	method = merge
+	cmdver = 0.4.5
