@@ -46,8 +46,17 @@ attached report.
 
 ## References 
 
-See the attached report in this repository for an exhaustive list of our literature references
+See the attached report in this repository for an exhaustive list of our literature references.
 
+In the code we also relied on these sources:
+
+* projectmesa: "Introductory Tutorial": https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html
+* projectmesa: "Advanced Tutorial": https://mesa.readthedocs.io/en/latest/tutorials/adv_tutorial.html
+* projectmesa: "API": https://mesa.readthedocs.io/en/latest/apis/api_main.html
+* projectmesa: "Examples": https://github.com/projectmesa/mesa/tree/v1.1.1/examples
+* Chengarda: "Simple Pan and Zoom Canvas": https://codepen.io/chengarda/pen/wRxoyB
+* icomonstr: "Car 1": https://iconmonstr.com/car-1-svg/
+* icomonstr: "Bicycle 5": https://iconmonstr.com/bicycle-5-svg/
 
 ## Research Methods
 
