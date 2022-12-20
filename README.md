@@ -53,6 +53,4 @@ See the attached report in this repository for an exhaustive list of our literat
 
 Traffic Cellular Automata, Agent-Based Model, Nagel Schreckenberg Model, Traffic Planning
 
-## Other
 
-(mention datasets you are going to use)
